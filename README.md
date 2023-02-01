@@ -1,7 +1,7 @@
-# sarah.dionne.ch
+# Personal PWA
 This open source website is a one page PWA website that can be used for personal presentation website.
 
-View working demo under https://sarah.dionne.ch
+View it live under https://elmanou.ch/Personal-PWA/
 ![Preview](assets/img/devices.png)
 
 ## Key features:
