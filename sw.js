@@ -1,4 +1,4 @@
-const cacheName = "SD-v1.0.5",
+const cacheName = "PWA-v1.0.5",
       assets = [
         '/',
         '/index.html',
